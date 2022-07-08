@@ -1,0 +1,6 @@
+.vscode/*
+// @ts-ignore
+.DS_Store
+tempRunnerFile.py
+tempRunnerFile.pyc
+testing.py
